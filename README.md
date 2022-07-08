@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @marciomdsj
 - 👀 I’m interested in programming skills
-- 🌱 I’m currently learning HTML and CSS
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning SQL
 - 📫 How to reach me ...
 
 <!---
